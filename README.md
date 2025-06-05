@@ -94,3 +94,5 @@ PROJECT FOLDER
 ```bash
     python3 app.py
 ```
+
+- FINAL NOTE: make sure you activate the virtual environment you have created for this project each time you are working on it.
